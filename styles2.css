@@ -26,6 +26,11 @@
     border-color: bisque;
 }
 
+.card {
+    margin-left: auto;
+    margin-right: auto;
+}
+
 .mynav {
    color: ivory;
    font-weight: bolder;
